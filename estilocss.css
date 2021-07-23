@@ -6,7 +6,11 @@ body {
   background-attachment: scroll;
   background-color: gray;
 }
-  
+div {
+  border: 1px solid black;
+  margin: 25px 50px 75px;
+  background-color: lightblue;
+}
 h1 {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
