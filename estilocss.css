@@ -1,0 +1,18 @@
+body {
+  height: 450px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-color: gray;
+}
+  
+h1 {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
